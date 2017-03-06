@@ -4,3 +4,4 @@
 - G. Dennis Bounded Verification [Bounded Verification of Voting Software](http://people.csail.mit.edu/kuat/papers/jforge.pdf) 
 - Kuat Yessenov's thesis [A Lightweight Specification Language for Bounded
 Program Verification](https://pdfs.semanticscholar.org/f4b4/adc99f6ab0bcea9ea751e619b93d4296df36.pdf)
+- A-normal form [The essense of Compiling with Continuations](https://slang.soe.ucsc.edu/cormac/papers/pldi93.pdf)
